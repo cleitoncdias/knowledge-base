@@ -36,5 +36,5 @@ A quick look at some of the technologies you might find across my studies:
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out!
 
-* **LinkedIn:** `[Cleiton Dias](https://www.linkedin.com/in/ctondias/)`
-* **GitHub:** `[cleitoncdias](https://github.com/cleitoncdias)`
+* **LinkedIn:** '[Cleiton Dias](https://www.linkedin.com/in/ctondias/)'
+* **GitHub:** '[cleitoncdias](https://github.com/cleitoncdias)'
