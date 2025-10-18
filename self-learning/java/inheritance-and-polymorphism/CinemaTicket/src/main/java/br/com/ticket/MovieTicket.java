@@ -1,6 +1,6 @@
 package br.com.ticket;
 
-public class MovieTicket {
+public abstract class MovieTicket {
     private String movieName;
     protected double price;
     private SessionType sessionType;
@@ -11,5 +11,5 @@ public class MovieTicket {
         this.sessionType = sessionType;
     }
 
-    public double getFinalPrice() { return this.price; }
+    public abstract double getFinalPrice();
 }

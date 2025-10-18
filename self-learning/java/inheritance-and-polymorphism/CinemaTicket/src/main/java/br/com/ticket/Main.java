@@ -14,7 +14,7 @@ public class Main {
         System.out.println("--------------------------------\n");
 
         // --- Creating different ticket types using Polymorphism ---
-        MovieTicket regularTicket = new MovieTicket(movieTitle, basePrice, SessionType.SUBBED);
+        MovieTicket regularTicket = new RegularTicket(movieTitle, basePrice, SessionType.SUBBED);
         
         MovieTicket halfPriceTicket = new ConcessionTicket(movieTitle, basePrice, SessionType.DUBBED);
         
